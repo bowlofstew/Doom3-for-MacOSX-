@@ -1,0 +1,8 @@
+.DS_Store
+neo/sys/osx/build
+neo/sys/osx/d3xp.xcodeproj/xcuserdata
+neo/sys/osx/Doom3.xcodeproj/project.xcworkspace
+neo/sys/osx/Doom3.xcodeproj/xcuserdata
+neo/sys/osx/game.xcodeproj/xcuserdata
+neo/sys/osx/idlib.xcodeproj/xcuserdata
+neo/sys/osx/oggVorbis.xcodeproj/xcuserdata
